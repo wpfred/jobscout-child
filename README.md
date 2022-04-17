@@ -1,5 +1,5 @@
 # jobscout-child-wpfred
- This WordPress child theme is developed by <wpfred.com>. I am a WordPress professional from Austria since 2011 and I develop themes and plugins specifically for WP Job Manager, WC Paid Listings and its other pro add-ons.
+ This WordPress child theme is developed by [wpfred.com](https://wpfred.com). I am a WordPress professional from Austria since 2011 and I develop themes and plugins specifically for WP Job Manager, WC Paid Listings and its other pro add-ons.
 
 Get in touch through hello@wpfred.com if you want to work with me.
 

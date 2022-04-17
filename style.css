@@ -1,0 +1,16 @@
+/* 
+Theme Name:		 Jobscout Child Theme by wpfred.com
+Theme URI:		 http://childtheme-generator.com/
+Description:	 Child theme for JobScout. I am wpfred and I develop themes and plugins specifically for WP Job Manager. 
+Author:			 wpfred.com
+Author URI:		 https://wpfred.com/
+Template:		 jobscout
+Version:		 1.0.2
+Text Domain:	 jobscout-child-wpfred
+*/
+
+
+/*  Remove grey background from company logos in job loop */
+.company-logo {
+    background-color: transparent !important;
+}
